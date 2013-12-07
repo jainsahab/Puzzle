@@ -1,0 +1,8 @@
+{
+  "name": "Puzzle",
+  "main": "index.html",
+  "window": {
+    "width": 650,
+    "height": 700
+  }
+}

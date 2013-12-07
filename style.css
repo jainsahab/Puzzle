@@ -1,0 +1,49 @@
+.placeholder {
+	width:200px;
+	height:200px;
+	border:1px solid #aaaaaa;
+	float: left;
+}
+
+#one {
+	width: 200px;
+	height: 200px;
+	background:red;
+}
+#two {
+	width: 200px;
+	height: 200px;
+	background:green;
+}#three {
+	width: 200px;
+	height: 200px;
+	background:blue;
+}#four {
+	width: 200px;
+	height: 200px;
+	background:purple;
+}
+
+#five{
+width:200px;
+height:200px;
+background:black;
+}
+#six {
+	width: 200px;
+	height: 200px;
+	background:orange;
+}#seven {
+	width: 200px;
+	height: 200px;
+	background:yellow;
+}#eight {
+	width: 200px;
+	height: 200px;
+	background:pink;
+}
+#nine{
+width:200px;
+height:200px;
+background:#ddddee;
+}
